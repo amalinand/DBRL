@@ -22,11 +22,9 @@ The proposed framework determines when to **single-book**, **double-book**, or *
 
 ## Project Structure
 
-├── Train.py # Training script for reinforcement learning agent
-├── RL_model.py # Model architecture
-├── data/ # (Not included) Private outpatient dataset
-├── weights/ # (Not included) Trained model weights (.pth)
-└── README.md # Project description
+1. Train.py - Training script for reinforcement learning agent
+2. RL_model.py - Model architecture
+3. README.md - Project description
 
 ## Notes
 
